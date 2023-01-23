@@ -12,13 +12,6 @@
   <th style="text-align:center; vertical-align: middle;">SOLUTIONS</th>
 </tr>
 <tr>
-  <td style="text-align:center; vertical-align: middle;">HTTP and REST Services </td>
-  <td style="text-align:center; vertical-align: middle;">
-    <a href="">Lab</a> |
-    <a href="">Exercise</a> 
-  </td>
-</tr>
-<tr>
   <td style="text-align: center; vertical-align: middle;">Asynchronous Programming </td>
   <td style="text-align: center; vertical-align: middle;">
     <a href="">Lab</a> |
