@@ -14,7 +14,7 @@
 <tr>
   <td style="text-align: center; vertical-align: middle;">Asynchronous Programming </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">Lab</a> |
+    <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/02.%20Asynchronous%20Programming%20-%20Lab">Lab</a> |
     <a href="">Exercise</a> 
   </td>
 </tr>
