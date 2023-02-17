@@ -29,13 +29,13 @@
   <td style="text-align: center; vertical-align: middle;">Single Page Applications </td>
   <td style="text-align: center; vertical-align: middle;">
     <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/06.%20Single%20Page%20Application%20-%20Lab/01.%20Calendar">Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/07.%20Single%20Page%20Application%20-%20Exercise">Exercise</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">Architecture and Testing </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">Lab</a> |
+    <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/08.%20Architecture%20and%20Testing%20-%20Lab">Lab</a> |
     <a href="">Exercise</a> 
   </td>
 </tr>
