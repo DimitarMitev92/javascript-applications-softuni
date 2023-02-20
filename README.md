@@ -36,7 +36,7 @@
   <td style="text-align: center; vertical-align: middle;">Architecture and Testing </td>
   <td style="text-align: center; vertical-align: middle;">
     <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/08.%20Architecture%20and%20Testing%20-%20Lab">Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/09.%20Architecture%20and%20Testing%20-%20Exercise">Exercise</a> 
   </td>
 </tr>
 <tr>
