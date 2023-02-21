@@ -36,14 +36,14 @@
   <td style="text-align: center; vertical-align: middle;">Architecture and Testing </td>
   <td style="text-align: center; vertical-align: middle;">
     <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/08.%20Architecture%20and%20Testing%20-%20Lab">Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/09.%20Architecture%20and%20Testing%20-%20Exercise">Exercise</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">Client Side Rendering </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/10.%20Client%20Side%20Rendering%20-%20Lab">Lab</a> |
+    <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/11.%20Client%20Side%20Rendering%20-%20Exercise">Exercise</a> 
   </td>
 </tr>
 <tr>
