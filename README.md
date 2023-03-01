@@ -56,7 +56,7 @@
 <tr>
   <td style="text-align: center; vertical-align: middle;">Exams</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">Exams</a>
+    <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/16.%20Exams">Exams</a>
   </td>
 </tr>
 </table>
