@@ -49,14 +49,14 @@
 <tr>
   <td style="text-align: center; vertical-align: middle;">Routing </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="#">Lab</a> |
+    <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/13.%20Routing%20-%20Exercise/01.%20Furniture">Exercise</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">Exams</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">Exams</a>
+    <a href="https://github.com/DimitarMitev92/javascript-applications-softuni/tree/main/16.%20Exams">Exams</a>
   </td>
 </tr>
 </table>
